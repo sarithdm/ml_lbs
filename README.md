@@ -8,24 +8,17 @@ This repository contains the code and resources for a Machine Learning session. 
    - Open a new terminal within VS Code (\`Terminal > New Terminal\`).
 
 2. **Create a Virtual Environment:**
-   \`\`\`bash
+
    python -m venv .mlsession
-   \`\`\`
 
 3. **Activate the Environment:**
    - On Windows:
-     \`\`\`bash
      .mlsession\\Scripts\\activate
-     \`\`\`
    - On macOS/Linux:
-     \`\`\`bash
      source .mlsession/bin/activate
-     \`\`\`
 
 4. **Install Essential Packages:**
-   \`\`\`bash
    pip install numpy pandas scikit-learn tensorflow flask
-   \`\`\`
 
 ## Model Deployment with Flask
 
