@@ -33,5 +33,6 @@ This repository contains the code and resources for a Machine Learning session. 
 
 - \`app.py\`: Flask application for serving the model.
 - \`client.py\`: Python script for testing the Flask API.
+- \`dl_ml.py\`: Python script for training the model.
 - \`model_IRIS.keras\`: Trained model file (ensure to include this in the repository).
 
